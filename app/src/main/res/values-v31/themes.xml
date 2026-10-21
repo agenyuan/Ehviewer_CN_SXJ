@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="SplashTheme" parent="BaseTheme">
-        <item name="android:windowBackground">@color/trans</item>
+        <item name="android:windowBackground">#009688</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
+        <item name="android:windowDisablePreview">true</item>
         <item name="android:windowSplashScreenBackground">#009688</item>
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_splash_icon</item>
     </style>
