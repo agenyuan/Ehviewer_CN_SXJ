@@ -248,12 +248,10 @@
     <style name="AppTheme.Settings.Black" parent="AppTheme.Black" />
 
     <style name="SplashTheme" parent="BaseTheme">
-        ==========
-        启动页属性
-        ==========
-        <item name="android:windowBackground">@color/trans</item>
+        <item name="android:windowBackground">#009688</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
+        <item name="android:windowDisablePreview">true</item>
     </style>
 
     <!-- ============ -->
